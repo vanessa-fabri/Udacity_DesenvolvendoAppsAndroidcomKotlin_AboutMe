@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Vanessa Fabri</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Vanessa.
+\n\nLorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.
+\n\nWhen an unknown printer took a galley of type and scrambled it to make a type specimen.
+\nsurvived not only five centuries, but also the leap into electronic typesetting, remaining
+\n\nessentially unchanged. It was popularised in the 1960s with the release of Letraset sheets
+        containing Lorem Ipsum passages, and more recently with desktop publishing software like
+\nAldus PageMaker including versions of Lorem Ipsum.\n\n</string>
+    <string name="what_is_your_nickname">Whats is your Nickname?</string>
+    <string name="done">DONE</string>
+
+</resources>
